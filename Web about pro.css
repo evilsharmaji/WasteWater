@@ -1,0 +1,18 @@
+header{
+    text-align: center;
+    text-shadow: rgb(103, 81, 48);
+    color: black;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+h1{
+    padding-top: 10px;
+    margin: 2%;
+    font-size: medium;
+    font-style: oblique;
+    font-weight: 200;
+}
+body{
+    color: #a64d4d;
+    margin: 20px;
+}
